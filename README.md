@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Screenshots  
 
-![alt tag](https://s29.postimg.org/nrsi1mz6f/image.png)
+![alt tag](https://s3.postimg.org/scf1pxnsz/image.png)
 
 ![alt tag](https://s11.postimg.org/knymlphv7/image.png)
 
