@@ -1,5 +1,5 @@
 # Mindsear's Legion Item Creator
-This is a tool to ease the creation of Legion (7.2.5) Items (Note: This is a not a complete project)  
+This is a tool to ease the creation of Legion (7.2.5) Items, NPC's, GameObjects, Quests.
 
 _________________________________________________________________________________________
 
