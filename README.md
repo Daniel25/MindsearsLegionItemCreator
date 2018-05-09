@@ -1,5 +1,5 @@
 # Mindsear's Legion Item Creator
-This is a tool to ease the creation of Legion (7.2.5) Items, NPC's, GameObjects, Quests.
+This is a tool to ease the creation of Legion (7.x) Items, NPC's, GameObjects, Quests.
 
 _________________________________________________________________________________________
 
@@ -13,13 +13,13 @@ ________________________________________________________________________________
 
 Screenshots  
 
-![alt tag](https://s3.postimg.org/scf1pxnsz/image.png)
+![alt tag](https://image.ibb.co/mhm6WJ/1.png)
 
-![alt tag](https://s11.postimg.org/knymlphv7/image.png)
+![alt tag](https://image.ibb.co/j6os5d/2.png)
 
-![alt tag](https://s4.postimg.org/4bdjt9ef1/image.png)
+![alt tag](https://image.ibb.co/c8ZUJy/3.png)
 
-![alt tag](https://s17.postimg.org/b3v73u90v/image.png)
+![alt tag](https://image.ibb.co/greX5d/4.png)
 
-Custom Weapon made with this tool
-![alt tag](https://s30.postimg.org/s645nm71t/test_weapon.jpg)
+Custom Weapon made with this tool (Updated)
+![alt tag](https://image.ibb.co/h8Qpkd/Wo_WScrn_Shot_050918_231541.jpg)
