@@ -20,7 +20,7 @@ spellitemenchantment_db2.sql
 -- Names were pulled from wowhead (using a custom application)
 --
 -- Execute a query like the following into your database so you can search icons with ease
--- For example you can search like this: [B]SELECT * FROM legion_icons WHERE IconName LIKE '%poison%';
+-- For example you can search like this: SELECT * FROM legion_icons WHERE IconName LIKE '%poison%';
 -- and you will get every icon containing the "poison" word
 -- 
 -- --------------------------------------------------------
