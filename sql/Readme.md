@@ -2,7 +2,7 @@ Make a new database named dbc or db2 and execute these sql files into the newly 
   
   
 These are six tables which I extracted from Legion db2 files  
-https://github.com/mindsear/MindsearsLegionItemCreator/releases/download/v2.0/legion_sql_tables.rar"][B]legion_sql_tables.rar containing the following tables:  
+https://github.com/mindsear/MindsearsLegionItemCreator/releases/download/v2.0/legion_sql_tables.rar containing the following tables:  
   
 Emotes_db2.sql  
 faction_db2.sql  
