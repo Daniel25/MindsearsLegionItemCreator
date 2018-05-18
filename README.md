@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 Screenshots  
 
-![alt tag](https://image.ibb.co/mhm6WJ/1.png)
+![alt tag](https://image.ibb.co/dyh1Dy/6.png)
 
 ![alt tag](https://image.ibb.co/j6os5d/2.png)
 
