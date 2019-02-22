@@ -1,4 +1,5 @@
-# THIS PROJECT HAS BEEN ABANDONED
+# THIS PROJECT HAS BEEN ABANDONED. 
+Willing to sell the source code. I you're interested send me an email: mindsear09765@gmail.com 
 
 
 # Mindsear's Legion Item Creator
